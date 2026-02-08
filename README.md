@@ -1,5 +1,8 @@
 # ⚡ Electric Vehicle Data Analysis – Power BI Dashboard
 
+
+![EV Dashboard Preview](https://raw.githubusercontent.com/anirray346/anirray346/main/EV_Data_Analysis.png)
+
 ## 📌 Project Overview
 This project presents an **interactive Power BI dashboard** analyzing **Electric Vehicle (EV) adoption and distribution** across the United States. The dashboard transforms raw EV registration data into **actionable insights** related to vehicle type, manufacturer dominance, geographic spread, and model-wise performance.
 
@@ -69,6 +72,5 @@ These filters enable users to **drill down into specific segments** and explore 
 
 
 
-![EV Dashboard Preview](https://raw.githubusercontent.com/anirray346/anirray346/main/EV_Data_Analysis.png)
 
 
